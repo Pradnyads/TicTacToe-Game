@@ -19,6 +19,16 @@ sq=(1 2 3 4 5 6 7 8 9)
   echo "Wrong input"
 fi
 
+#UC3 Display Board
+  echo "Display Board"
+  echo "----------"
+  echo "|  |  |  |"
+  echo "----------"
+  echo "|  |  |  |"
+  echo "----------"
+  echo "|  |  |  |"
+  echo "----------"
+
 
 
 
